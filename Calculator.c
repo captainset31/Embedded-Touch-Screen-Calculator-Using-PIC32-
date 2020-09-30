@@ -5,7 +5,7 @@
  * This is the header file for the calculator module. 
  */
 
-#include "Calculator.h"
+
 #include <stdio.h>
 #include <string.h>
 #include <limits.h>
